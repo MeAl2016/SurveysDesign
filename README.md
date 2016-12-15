@@ -1,2 +1,2 @@
 # SurveysDesign
-Anonymous and Non-Intrusive Surveys that allows only one entry from any device
+Anonymous and Non-Intrusive Surveys that allow only one entry from each device
